@@ -15,8 +15,6 @@ const default_config = {
       g: ["https://google.com/search?q=", "Google"],
       d: ["https://duckduckgo.com/html?q=", "DuckDuckGo"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
-      r: ["https://www.reddit.com/search/?q=", "Reddit"],
-      p: ["https://www.pinterest.es/search/pins/?q=", "Pinterest"],
     },
   },
   keybindings: {
